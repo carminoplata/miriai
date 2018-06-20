@@ -279,6 +279,11 @@
           font-size:36px;
           text-align:center
         }
+        .probootstrap-hero .intro-text .probootstrap-subheading{
+          max-width:200px;
+          color:rgba(255,255,255,.9);
+          font-size:20px
+        }
       }
       .probootstrap-hero .intro-text .probootstrap-subheading{
         max-width:500px;
